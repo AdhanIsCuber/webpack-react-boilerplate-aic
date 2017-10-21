@@ -1,0 +1,23 @@
+{
+  "name": "webpack-react-boilerplate",
+  "version": "1.0.0",
+  "description": "This repo is my own customization for Frontend Development.",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "webpack -d --watch",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhanIsCuber/webpack-react-boilerplate-aic.git"
+  },
+  "author": "Wirya Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhanIsCuber/webpack-react-boilerplate-aic/issues"
+  },
+  "homepage": "https://github.com/AdhanIsCuber/webpack-react-boilerplate-aic#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
